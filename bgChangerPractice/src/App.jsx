@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <h1>BG Changer Project</h1>
+      <h1>BG Changer Project</h1>
 
       <div className="bg-color-red">
         <button onClick={changeColor}>Black</button>
